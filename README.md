@@ -1,4 +1,4 @@
-Oi# scankit-ProtegITCorp
+# scankit-ProtegITCorp
 Scan de vulnerabilidades que roda em qualquer terminal
 
 # sobre
