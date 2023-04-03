@@ -3,7 +3,7 @@ Scan de vulnerabilidades que roda em qualquer terminal
 
 # sobre
 
-**Esta ferramenta e um scankit, ou seja basicamente vários scan's em uma so ferramenta e o principal objetivo e rodar em qualquer terminal (sem a necessidade de ambiente gráfico nem elementos gráficos, resumindo roda em desktop, celular(termux e userland), servidores etc, ou seja qualquer terminal bash.**
+**Esta ferramenta e um scankit, ou seja basicamente vários scan's em uma so ferramenta e o principal objetivo e rodar em qualquer terminal (sem a necessidade de ambiente gráfico nem elementos gráficos), resumindo roda em desktop, celular(termux e userland), servidores etc, ou seja qualquer terminal bash.**
 
 # instalação
 A ferramenta tem um arquivo setup que instala todas as dependências e bibliotecas necessárias então e so seguir os comandos abaixo:
