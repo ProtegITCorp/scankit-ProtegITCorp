@@ -25,9 +25,9 @@ E é so esperar terminar de instalar **por padrão vai executar a ferramenta ass
 
 
 
-![img]
+![imagemum]
 (https://i.ibb.co/Sc3S3Sc/Screenshot-20230402-225712.png)
-![img2]
+![imagemdois]
 (https://i.ibb.co/cwGQ9S4/Screenshot-20230402-225108.png)
-![img3]
+![imagemtres]
 (https://i.ibb.co/8YNwx8h/Gallery-1680487191318.jpg)
