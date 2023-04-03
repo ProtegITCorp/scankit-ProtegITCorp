@@ -1,4 +1,4 @@
-# scankit-ProtegITCorp
+Oi# scankit-ProtegITCorp
 Scan de vulnerabilidades que roda em qualquer terminal
 
 # sobre
@@ -14,7 +14,7 @@ A ferramenta tem um arquivo setup que instala todas as dependências e bibliotec
  - cd scankit-ProtegITCorp
  - bash setup.sh
 
-E é so esperar terminar de instalar **por padrão vai executar a ferramenta assim que acabar o download das dependências** porém você pode executar a ferramenta separadamente da próxima vez que for usar com o comdando:
+E é so esperar terminar de instalar **por padrão vai executar a ferramenta assim que acabar o download das dependências** porém você pode executar a ferramenta separadamente da próxima vez que for usar com o comando:
  - python3 scankit.py
 
 
